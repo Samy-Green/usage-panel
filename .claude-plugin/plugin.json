@@ -1,0 +1,6 @@
+{
+  "name": "usage-panel",
+  "version": "0.1.0",
+  "description": "Panneau affichant le compte, les quotas 5 h et hebdomadaires avec délai de réinitialisation, et la taille du contexte de la session",
+  "types": "./types/index.d.ts"
+}

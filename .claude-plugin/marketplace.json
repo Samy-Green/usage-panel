@@ -1,0 +1,11 @@
+{
+  "name": "usage-panel",
+  "owner": { "name": "Boule" },
+  "plugins": [
+    {
+      "name": "usage-panel",
+      "source": "./",
+      "description": "Panneau affichant le compte, les quotas 5 h et hebdomadaires avec délai de réinitialisation, et la taille du contexte de la session"
+    }
+  ]
+}
